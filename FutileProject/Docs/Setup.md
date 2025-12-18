@@ -4,6 +4,8 @@ For starters, Futile is a 2D framework built-ontop of Unity for performance reas
 
 This means that if you dont know any Unity scripting, you're completely fine since Futile has almost nothing to do with Unity code-wise (unless you're modifying Futile which you'll most likely do
 
+NOTE: This documentation does assumd you know a solid amount of C#
+
 # Setup
 Futile is a deprecated framework however if you fix the various warnings and compile errors you *can* get it to work.
 I won't list the fixes and only reserve that for the far future when i actually have a computer, im making this documentation just looking at the source-code, so don't expect *everything* to be given :')
