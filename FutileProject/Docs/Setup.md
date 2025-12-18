@@ -39,6 +39,6 @@ public class ThisScript : MonoBehaviour
 }
 ```
 
-Then make a GameObject in the scene hierarchy (e.g: Futile), then attach the Script to the GO, and if you included the Log function, you should see the color code for fparams.backgroundColor in the console
+Then make a GameObject in the scene hierarchy (e.g: Futile), then attach the Script to the GO, and if you included the Log function, you should see the color code for fparams.backgroundColor in the console when running the game
 
 If everything works fine, congratulations! You now know how to initialize Futile :D
