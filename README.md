@@ -1,3 +1,7 @@
+# Futile-Documented
+This is the standard Futile framework except i added a bunch of extra markdown files to act as documentation for the framework
+
+---
 
 # Futile (2021 Edition)
 
